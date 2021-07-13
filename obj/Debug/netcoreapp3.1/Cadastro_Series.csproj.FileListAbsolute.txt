@@ -1,0 +1,13 @@
+C:\Users\Edith\Desktop\Erro\Curso DIO GTF\05) Criando um App simples de cadastro de séries em .NET\Cadastro_Series\obj\Debug\netcoreapp3.1\Cadastro_Series.csprojAssemblyReference.cache
+C:\Users\Edith\Desktop\Erro\Curso DIO GTF\05) Criando um App simples de cadastro de séries em .NET\Cadastro_Series\obj\Debug\netcoreapp3.1\Cadastro_Series.csproj.CoreCompileInputs.cache
+C:\Users\Edith\Desktop\Erro\Curso DIO GTF\05) Criando um App simples de cadastro de séries em .NET\Cadastro_Series\obj\Debug\netcoreapp3.1\Cadastro_Series.AssemblyInfoInputs.cache
+C:\Users\Edith\Desktop\Erro\Curso DIO GTF\05) Criando um App simples de cadastro de séries em .NET\Cadastro_Series\obj\Debug\netcoreapp3.1\Cadastro_Series.AssemblyInfo.cs
+C:\Users\Edith\Desktop\Erro\Curso DIO GTF\05) Criando um App simples de cadastro de séries em .NET\Cadastro_Series\bin\Debug\netcoreapp3.1\Cadastro_Series.exe
+C:\Users\Edith\Desktop\Erro\Curso DIO GTF\05) Criando um App simples de cadastro de séries em .NET\Cadastro_Series\bin\Debug\netcoreapp3.1\Cadastro_Series.deps.json
+C:\Users\Edith\Desktop\Erro\Curso DIO GTF\05) Criando um App simples de cadastro de séries em .NET\Cadastro_Series\bin\Debug\netcoreapp3.1\Cadastro_Series.runtimeconfig.json
+C:\Users\Edith\Desktop\Erro\Curso DIO GTF\05) Criando um App simples de cadastro de séries em .NET\Cadastro_Series\bin\Debug\netcoreapp3.1\Cadastro_Series.runtimeconfig.dev.json
+C:\Users\Edith\Desktop\Erro\Curso DIO GTF\05) Criando um App simples de cadastro de séries em .NET\Cadastro_Series\bin\Debug\netcoreapp3.1\Cadastro_Series.dll
+C:\Users\Edith\Desktop\Erro\Curso DIO GTF\05) Criando um App simples de cadastro de séries em .NET\Cadastro_Series\bin\Debug\netcoreapp3.1\Cadastro_Series.pdb
+C:\Users\Edith\Desktop\Erro\Curso DIO GTF\05) Criando um App simples de cadastro de séries em .NET\Cadastro_Series\obj\Debug\netcoreapp3.1\Cadastro_Series.dll
+C:\Users\Edith\Desktop\Erro\Curso DIO GTF\05) Criando um App simples de cadastro de séries em .NET\Cadastro_Series\obj\Debug\netcoreapp3.1\Cadastro_Series.pdb
+C:\Users\Edith\Desktop\Erro\Curso DIO GTF\05) Criando um App simples de cadastro de séries em .NET\Cadastro_Series\obj\Debug\netcoreapp3.1\Cadastro_Series.genruntimeconfig.cache
